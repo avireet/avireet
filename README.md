@@ -1,6 +1,8 @@
-# Hi there 👋, I'm Avireet Kaur
-
-🚀 **Student Developer | Tech Enthusiast | Lifelong Learner**
+<h1 align="center">𝙷ey there, 𝙸'𝚖 Avireet </h1>
+<hr>
+<h2 align="center">Aspiring Developer🌱</h2>
+<hr>
+<img align="right" alt="coding gif" width="350" height="350" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"/>
 
 ---
 
