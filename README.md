@@ -1,7 +1,5 @@
-<h1 align="center">𝙷ey there, 𝙸'𝚖 Avireet </h1>
+<h1 align="center">Hey there, I'm Avireet </h1>
 <h2 align="center">Aspiring Developer🌱</h2>
-<img align="right" alt="coding gif" width="350" height="350" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"/>
-
 
 ## 'bout Me
 - 🔭 I’m currently learning **Full-Stack Development, DSA, and AI/ML** (and Googling “why isn’t my code working?” more than I’d like to admit)  
@@ -9,7 +7,9 @@
 - 💻 Passionate about building **real-world projects**  
 - 🎯 Goal: To **grow as a product developer**, contribute to open-source, and finally understand recursion without crying  
 - ☕ Powered by coffee, and sheer stubbornness to make my code work 
-- 🤖 Hoping AI doesn’t take my job before I take it myself  
+- 🤖 Hoping AI doesn’t take my job before I take it myself
+  <img align="right" alt="coding gif" width="350" height="350" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"/>
+
 
 ---
 
