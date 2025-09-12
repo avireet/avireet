@@ -1,29 +1,25 @@
 <h1 align="center">𝙷ey there, 𝙸'𝚖 Avireet </h1>
-<hr>
 <h2 align="center">Aspiring Developer🌱</h2>
-<hr>
 <img align="right" alt="coding gif" width="350" height="350" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"/>
 
----
 
-## About Me
-- 🔭 I’m currently learning **Full-Stack Development & AI**  
-- 🌱 Exploring **React, Node.js, Python, and Machine Learning**  
+## 'bout Me
+- 🔭 I’m currently learning **Full-Stack Development, DSA, and AI/ML** (and Googling “why isn’t my code working?” more than I’d like to admit)  
+- 🌱 Good at quick fixes… sometimes it works, sometimes it’s a miracle
 - 💻 Passionate about building **real-world projects**  
-- 🎯 Goal: To **grow as a full-stack developer** and contribute to open-source  
+- 🎯 Goal: To **grow as a product developer**, contribute to open-source, and finally understand recursion without crying  
+- ☕ Powered by coffee, and sheer stubbornness to make my code work 
+- 🤖 Hoping AI doesn’t take my job before I take it myself  
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/avireet-kaur/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://twitter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Portfolio" width="40" height="40"/>
+<a href="https://leetcode.com/u/Avireet/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="Leetcode" width="40" height="40"/>
 </a>
 
 ---
@@ -53,8 +49,5 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </a>
 
