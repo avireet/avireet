@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" height="200" width = "280" align="right">
 <br>
 
-- 🔭 I’m currently learning **Full-Stack Development, DSA, and AI/ML** (and Googling “why isn’t my code working?” more than I’d like to admit)  
+- 🔭 I’m currently learning **Full-Stack Development, DSA, and AI/ML** 
 - 🌱 Good at quick fixes… sometimes it works, sometimes it’s a miracle  
 - 💻 Passionate about building **real-world projects**  
 - 🎯 Goal: To **grow as a product developer**, contribute to open-source, and finally understand recursion without crying  
