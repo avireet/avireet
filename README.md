@@ -11,13 +11,6 @@
 - 💻 Passionate about building **real-world projects**  
 - 🎯 Goal: To **grow as a product developer**, contribute to open-source, and finally understand recursion without crying  
 - ☕ Powered by coffee, and sheer stubbornness to make my code work
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 ## 🌐 Connect with Me
 
